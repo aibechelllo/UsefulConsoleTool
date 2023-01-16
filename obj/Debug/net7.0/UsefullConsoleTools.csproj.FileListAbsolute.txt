@@ -1,0 +1,12 @@
+/Users/aibekusubaliev/Projects/Exceptions(8)/UsefullConsoleTools/bin/Debug/net7.0/UsefullConsoleTools.deps.json
+/Users/aibekusubaliev/Projects/Exceptions(8)/UsefullConsoleTools/bin/Debug/net7.0/UsefullConsoleTools.dll
+/Users/aibekusubaliev/Projects/Exceptions(8)/UsefullConsoleTools/bin/Debug/net7.0/UsefullConsoleTools.pdb
+/Users/aibekusubaliev/Projects/Exceptions(8)/UsefullConsoleTools/obj/Debug/net7.0/UsefullConsoleTools.csproj.AssemblyReference.cache
+/Users/aibekusubaliev/Projects/Exceptions(8)/UsefullConsoleTools/obj/Debug/net7.0/UsefullConsoleTools.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aibekusubaliev/Projects/Exceptions(8)/UsefullConsoleTools/obj/Debug/net7.0/UsefullConsoleTools.AssemblyInfoInputs.cache
+/Users/aibekusubaliev/Projects/Exceptions(8)/UsefullConsoleTools/obj/Debug/net7.0/UsefullConsoleTools.AssemblyInfo.cs
+/Users/aibekusubaliev/Projects/Exceptions(8)/UsefullConsoleTools/obj/Debug/net7.0/UsefullConsoleTools.csproj.CoreCompileInputs.cache
+/Users/aibekusubaliev/Projects/Exceptions(8)/UsefullConsoleTools/obj/Debug/net7.0/UsefullConsoleTools.dll
+/Users/aibekusubaliev/Projects/Exceptions(8)/UsefullConsoleTools/obj/Debug/net7.0/refint/UsefullConsoleTools.dll
+/Users/aibekusubaliev/Projects/Exceptions(8)/UsefullConsoleTools/obj/Debug/net7.0/UsefullConsoleTools.pdb
+/Users/aibekusubaliev/Projects/Exceptions(8)/UsefullConsoleTools/obj/Debug/net7.0/ref/UsefullConsoleTools.dll
